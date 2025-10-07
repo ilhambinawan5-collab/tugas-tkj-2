@@ -6,7 +6,7 @@ Tulis link/url dan nama, contoh : "Link URL : https://rfpschool.github.io (Restu
 4. 
 5. 
 6. 
-7. 
+7.  "Link URL : https://rfpschool.github.io (Ilham binawan Wibowo)
 8. 
 9. 
 10. 
@@ -19,6 +19,6 @@ Tulis link/url dan nama, contoh : "Link URL : https://rfpschool.github.io (Restu
 17. 
 18. 
 19. 
-20. Link URL : https://https://rvldichngo128-blip.github.io/(Rivaldi) 
+20. Link URL : https://https://rvldichngo128-blip.github.io/(Rivaldi)
 21. 
 22. 
